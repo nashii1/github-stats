@@ -3,7 +3,7 @@
 <a href="https://github.com/jstrieb/github-stats">
 
 ![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
+![](https://raw.githubusercontent.com/nashii1/github-stats/bc0879a847e937b57980ccfa1eb4b4d42c087831/generated/languages.svg)
 
 </a>
 
